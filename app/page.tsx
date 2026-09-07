@@ -335,10 +335,7 @@ export default function Home() {
                 </p>
 
                 <p className="mt-8 max-w-2xl leading-7 text-gray-400">
-                  My work combines frontend development, Python programming,
-                  data analysis, machine learning, databases, and cloud
-                  computing. I focus on building practical projects while
-                  continuously improving my technical skills.
+                  I build practical, end-to-end digital solutions — from responsive frontends to data pipelines and ML models deployed in the cloud. I like taking a project from raw idea to something real people can use, whether that means writing clean Python, wrangling data into insight, or shipping a full-stack app.
                 </p>
 
                 <div className="mt-10 grid gap-6 sm:grid-cols-3">
